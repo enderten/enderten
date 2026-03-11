@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi!
+Do you hate data harvesting? Me too. 
 
-<!--
-**enderten/enderten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm starting a petition on **Change.org** to change how things work. Companies should show us clearly what they are taking from us.
 
-Here are some ideas to get you started:
+### 📜 Global Petition for a Plain Sight Data Law 
+*Stop the Billion-Dollar Auction of Our Privacy.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you want to be part of this, please sign my petition, it would make me so happy! :)
+
+👉 **Link:** [https://c.org/yRgPJPMvcH](https://c.org/yRgPJPMvcH)
+
+---
+Thanks! I also have more repositories on my account. If you want, you can check them out! 
+*~enderten*
