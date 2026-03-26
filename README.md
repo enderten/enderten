@@ -17,7 +17,7 @@ I just released **Device Manager Pro**, a powerful ADB/Fastboot manager built wi
 * **Safe Sideload:** Extension-locked file picking to prevent terminal errors.
 * **Universal:** Compatible with Apple Silicon and Intel Macs.
 
-👉 **[Download the Latest Release here!](https://github.com/enderten/Device-Manager-Pro/releases/latest)**
+👉 **[Download the Latest Release here!](https://github.com/enderten/Device-Manager-ULTRA/releases/tag/newrealese)**
 
 ---
 
