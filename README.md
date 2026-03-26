@@ -19,9 +19,6 @@ The high-performance **Dynamic Island** for macOS 12+. Built with fluid spring a
 ### 📱 Device Manager Pro
 A powerful ADB/Fastboot manager built with a native **Liquid Glass UI**. 
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1555a6fd-4a93-4992-880f-d37b3cb49f9c" width="700" alt="Device Manager Pro Preview">
-</p>
 
 * **Aesthetic & Fluid:** Frosted glass interface (macOS 14+).
 * **Power-User Ready:** Flash partitions (`system`, `boot`, `vbmeta`) with smart safety guards.
