@@ -1,7 +1,6 @@
 # Hi there, I'm enderten! 👋
 
 I'm a macOS Developer and Android enthusiast focused on creating high-performance tools with stunning visual experiences.
-
 ---
 
 ## 💎 Featured Projects
@@ -33,6 +32,12 @@ A powerful ADB/Fastboot manager built with a native **Liquid Glass UI**.
 * **Languages:** Swift, SwiftUI, Shell (Zsh).
 * **Tools:** Xcode, Git, Android Platform Tools.
 * **Design:** Liquid Glass & Neumorphism.
+
+* ## 🧪 Experiments & Other Projects
+* 🎮 **[WiiUShop_FTP](https://github.com/enderten/WiiUShop_FTP):** A nostalgic beta EShop for Wii U using FTP.
+* 🛠️ **[romMaker](https://github.com/enderten/romMakerBuilds):** Tool to modify system.img GSI (EXT4 support).
+* 🌐 **[iPadOS26HTML](https://github.com/enderten/iPadOS26HTML):** A stunning HTML replica of iPadOS 26.
+* 📱 **[RaneBrowser](https://github.com/enderten/RaneBrowser):** A smooth web browser built for Android 14+. (It's only for testing, like almost everything here!)
 
 ## 📈 GitHub Stats
 <p align="left">
