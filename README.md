@@ -2,7 +2,7 @@
 
 I'm a macOS Developer and Android enthusiast focused on creating high-performance tools with stunning visual experiences.
 ---
-
+*please don't confuse me with Maria Enderton :)*
 ## 💎 Featured Projects
 
 ### 🏝️ DynaMic (Liquid Edition)
